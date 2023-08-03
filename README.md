@@ -22,5 +22,7 @@ Com ele, você pode obter informações detalhadas sobre o clima de qualquer cid
 * Contribuições para o desenvolvimento e aprimoramento do WeatherApp são bem-vindas! * 
 - Se você encontrar problemas ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma "issue" ou enviar um "pull request".
 
-# Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+# Observações importantes
+1° - Este é meu primeiro projeto envolvendo a utilização de API;
+2° - Este é meu primeiro projeto relacionado a programação Web;
+3° - Este projeto foi realizado somente para expandir meus conhecimentos, não envolve uso comercial.
