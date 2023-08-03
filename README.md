@@ -3,6 +3,8 @@
 O WeatherApp é um aplicativo de previsão do tempo desenvolvido em Python com o auxílio do framework Flask.
 Com ele, você pode obter informações detalhadas sobre o clima de qualquer cidade do mundo!
 
+API da OpenWeather utilizada para as calls ao obter a previsão do tempo.
+
 # Funcionalidades
 - Pesquisar a previsão do tempo de uma cidade específica.
 - Exibir informações como temperatura atual, descrição do clima, umidade e ícone representativo do tempo.
